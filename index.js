@@ -47,7 +47,6 @@ function makeSound(key){
          case "l":
          var snare=new Audio("sounds/snare.mp3");
          snare.play();
-         alert("Hello GiniAshok !")
          break;
       default:
 
